@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1742955847280,
+  "timestamp": 1742968786860,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main-JNDKIUUZ.js",
+        "/main-LAP7BSXR.js",
         "/manifest.webmanifest",
         "/polyfills-FFHMD2TL.js",
         "/preguntasfrecuentes.html",
@@ -50,8 +50,8 @@
   ],
   "hashTable": {
     "/favicon.ico": "a7ce97d6df5013fb7e6d52caee0d366f1d614c89",
-    "/index.html": "17e65bb0aae56234ebd06dbfa0be9bce06304e5c",
-    "/main-JNDKIUUZ.js": "3f8869176c5af28ca2e3295922528428aff0c72d",
+    "/index.html": "915ed4ec7b32e9e84c49e36fecc88deef8d93b47",
+    "/main-LAP7BSXR.js": "54baee53631708888d94ffc4e5ae9b6132214b07",
     "/manifest.webmanifest": "b6e4f81ac58e61402e14df0d4a66f3cb63061b0a",
     "/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
     "/preguntasfrecuentes.html": "b9acf99fa6f81825bcb6fc501922182083ad6159",
